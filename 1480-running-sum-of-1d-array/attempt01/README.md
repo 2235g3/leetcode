@@ -18,7 +18,7 @@ src/
   Main.java
 ```
 
-`Main.java` contains:
+`Solution.java` contains:
 
 - a `main` method with a sample input array
 - a `runningSum` method that calculates the running sum

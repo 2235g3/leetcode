@@ -16,7 +16,3 @@ For each character, it:
 - otherwise adds the current value to the total
 
 This handles subtractive Roman numeral cases such as `IV`, `IX`, `XL`, and `CM`.
-
-## Notes
-
-This attempt is written as a LeetCode-style `Solution` class rather than a standalone program with a `main` method.

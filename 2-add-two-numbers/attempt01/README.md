@@ -6,7 +6,7 @@ The goal of the problem is to add two non-negative integers stored in reverse or
 
 ## Status
 
-This solution works for the sample case included in `Main.java`.
+This solution works for the sample case included in `Solution.java`.
 
 I am keeping this repository as a record of an early attempt rather than rewriting it into an ideal solution. The code reflects the approach I tried at the time.
 
@@ -14,7 +14,7 @@ I am keeping this repository as a record of an early attempt rather than rewriti
 
 The solution:
 
-1. Builds two linked lists manually in `Main.java`.
+1. Builds two linked lists manually in `Solution.java`.
 2. Converts each linked list into a number string.
 3. Uses `BigInteger` to add the two values.
 4. Converts the result back into a reversed linked list.

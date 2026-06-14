@@ -19,7 +19,7 @@ If no matching index is found, the method returns `-1`.
 
 ## Example
 
-The current example in `Main.java` uses:
+The current example in `Solution.java` uses:
 
 ```java
 int[] nums = {2, 1, -1};

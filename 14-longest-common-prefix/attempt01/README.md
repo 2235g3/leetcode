@@ -14,7 +14,3 @@ It then:
 - compares every string against the first string at that position
 - returns the prefix as soon as a mismatch is found
 - returns the shortest string length as the prefix length if no mismatch is found
-
-## Notes
-
-This attempt is written as a LeetCode-style `Solution` class and uses a direct character-by-character comparison.
