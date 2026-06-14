@@ -15,7 +15,7 @@ problem-number-problem-name/
     README.md
 ```
 
-Some attempts use a standalone `Main` class with sample input. Others use LeetCode-style `Solution` classes.
+All attempts are stored in `Solution` classes.
 
 ## Attempts
 
@@ -28,6 +28,7 @@ Some attempts use a standalone `Main` class with sample input. Others use LeetCo
 | [13 - Roman to Integer](13-roman-to-integer/attempt01/README.md) | attempt01 | Working attempt | Compares each Roman numeral with the next one to handle subtraction cases. |
 | [14 - Longest Common Prefix](14-longest-common-prefix/attempt01/README.md) | attempt01 | Working attempt | Compares strings character by character. |
 | [29 - Divide Two Integers](29-divide-two-integers/attempt01/README.md) | attempt01 | Failed attempt | Repeated subtraction approach does not handle all overflow edge cases. |
+| [35 - Search Insert Position](35-search-insert-position/attempt01/README.md) | attempt01 | Working attempt | Uses a while loop to update left and right pointers to implement a binary search. |
 | [724 - Find Pivot Index](724-find-pivot-index/attempt01/README.md) | attempt01 | Working attempt | Brute-force left/right sum comparison. |
 | [1480 - Running Sum of 1D Array](1480-running-sum-of-1d-array/attempt01/README.md) | attempt01 | Working attempt | Brute-force running sum calculation. |
 

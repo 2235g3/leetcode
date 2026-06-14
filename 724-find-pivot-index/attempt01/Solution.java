@@ -1,4 +1,4 @@
-public class Main {
+public class Solution {
     public static void main(String[] args) {
         int[] nums = {2,1,-1}; // Inits the array
         System.out.println(pivotIndex(nums)); // Prints the index

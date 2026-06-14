@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class Main {
+public class Solution {
     public static void main(String[] args) {
         ListNode l1 = new ListNode();
         l1.val = 2;

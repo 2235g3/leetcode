@@ -1,4 +1,4 @@
-public class Main {
+public class Solution {
     public static void main(String[] args) {
         String s = "aacabdkacaa";
         System.out.println(longestPalindrome(s));
