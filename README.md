@@ -29,6 +29,7 @@ All attempts are stored in classes named `Solution.xxxx`.
 | [14 - Longest Common Prefix](14-longest-common-prefix/attempt01/README.md) | attempt01 | Working attempt | Compares strings character by character. |
 | [29 - Divide Two Integers](29-divide-two-integers/attempt01/README.md) | attempt01 | Failed attempt | Repeated subtraction approach does not handle all overflow edge cases. |
 | [35 - Search Insert Position](35-search-insert-position/attempt01/README.md) | attempt01 | Working attempt | Uses a while loop to update left and right pointers to implement a binary search. |
+| [53 - Length of Last Word](53-length-of-last-word/attempt01/README.md) | attempt01| In Progress | No notes as of yet. |
 | [724 - Find Pivot Index](724-find-pivot-index/attempt01/README.md) | attempt01 | Working attempt | Brute-force left/right sum comparison. |
 | [1480 - Running Sum of 1D Array](1480-running-sum-of-1d-array/attempt01/README.md) | attempt01 | Working attempt | Brute-force running sum calculation. |
 
