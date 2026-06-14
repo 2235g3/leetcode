@@ -11,11 +11,11 @@ Each problem has its own folder named with the LeetCode problem number and title
 ```text
 problem-number-problem-name/
   attempt01/
-    Main.java
+    Solution.xxxx
     README.md
 ```
 
-All attempts are stored in `Solution` classes.
+All attempts are stored in classes named `Solution.xxxx`.
 
 ## Attempts
 

@@ -19,8 +19,6 @@ class Solution {
         if (nums[mid] < target) {
             return (mid + 1);
         }
-        else if (nums[mid] >= target) {
-            return mid;
-        }
+        return mid;
     }
 }
