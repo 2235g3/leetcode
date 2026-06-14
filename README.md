@@ -21,15 +21,15 @@ All attempts are stored in classes named `Solution.xxxx`.
 
 | Problem | Attempt | Status | Notes |
 | --- | --- | --- | --- |
-| [1 - Two Sum](1-two-sum/attempt01/README.md) | attempt01 | Working attempt | Brute-force nested-loop solution. |
+| [1 - Two Sum](1-two-sum/attempt01/README.md) | attempt01 | Successful attempt | Brute-force nested-loop solution. |
 | [2 - Add Two Numbers](2-add-two-numbers/attempt01/README.md) | attempt01 | Working sample attempt | Uses `BigInteger` rather than the intended carry-based linked-list approach. |
 | [5 - Longest Palindromic Substring](5-longest-palindromic-substring/attempt01/README.md) | attempt01 | Failed attempt | Does not reliably return a valid palindrome. |
-| [9 - Palindrome Number](9-palindrome-number/attempt01/README.md) | attempt01 | Working attempt | Reverses half of the number without converting to a string. |
-| [13 - Roman to Integer](13-roman-to-integer/attempt01/README.md) | attempt01 | Working attempt | Compares each Roman numeral with the next one to handle subtraction cases. |
-| [14 - Longest Common Prefix](14-longest-common-prefix/attempt01/README.md) | attempt01 | Working attempt | Compares strings character by character. |
+| [9 - Palindrome Number](9-palindrome-number/attempt01/README.md) | attempt01 | Successful attempt | Reverses half of the number without converting to a string. |
+| [13 - Roman to Integer](13-roman-to-integer/attempt01/README.md) | attempt01 | Successful attempt | Compares each Roman numeral with the next one to handle subtraction cases. |
+| [14 - Longest Common Prefix](14-longest-common-prefix/attempt01/README.md) | attempt01 | Successful attempt | Compares strings character by character. |
 | [29 - Divide Two Integers](29-divide-two-integers/attempt01/README.md) | attempt01 | Failed attempt | Repeated subtraction approach does not handle all overflow edge cases. |
-| [35 - Search Insert Position](35-search-insert-position/attempt01/README.md) | attempt01 | Working attempt | Uses a while loop to update left and right pointers to implement a binary search. |
-| [53 - Length of Last Word](53-length-of-last-word/attempt01/README.md) | attempt01| In Progress | No notes as of yet. |
+| [35 - Search Insert Position](35-search-insert-position/attempt01/README.md) | attempt01 | Successful attempt | Uses a while loop to update left and right pointers to implement a binary search. |
+| [53 - Length of Last Word](53-length-of-last-word/attempt01/README.md) | attempt01| Successful attempt | Uses a for loop to reverse iterate through and check the state of the word. |
 | [724 - Find Pivot Index](724-find-pivot-index/attempt01/README.md) | attempt01 | Working attempt | Brute-force left/right sum comparison. |
 | [1480 - Running Sum of 1D Array](1480-running-sum-of-1d-array/attempt01/README.md) | attempt01 | Working attempt | Brute-force running sum calculation. |
 
