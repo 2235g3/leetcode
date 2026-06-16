@@ -25,7 +25,7 @@ All attempts are stored in classes named `Solution.<extension>`, where `<extensi
 | [2 - Add Two Numbers](2-add-two-numbers/attempt01/README.md) | attempt01 | Successful attempt | Uses `BigInteger` rather than the intended carry-based linked-list approach. |
 | [5 - Longest Palindromic Substring](5-longest-palindromic-substring/attempt01/README.md) | attempt01 | Failed attempt | Does not reliably return a valid palindrome. |
 | [9 - Palindrome Number](9-palindrome-number/attempt01/README.md) | attempt01 | Successful attempt | Reverses half of the number without converting to a string. |
-| [11 - Containter With Most Water](11-container-with-most-water/attempt01/README.md) | attempt01 | In Progress | To be implemented. |
+| [11 - Containter With Most Water](11-container-with-most-water/attempt01/README.md) | attempt01 | Successful attempt | Left and right pointers update to disregard the shortest line to attempt to create a larger area. |
 | [13 - Roman to Integer](13-roman-to-integer/attempt01/README.md) | attempt01 | Successful attempt | Compares each Roman numeral with the next one to handle subtraction cases. |
 | [14 - Longest Common Prefix](14-longest-common-prefix/attempt01/README.md) | attempt01 | Successful attempt | Compares strings character by character. |
 | [29 - Divide Two Integers](29-divide-two-integers/attempt01/README.md) | attempt01 | Failed attempt | Repeated subtraction approach does not handle all overflow edge cases. |
