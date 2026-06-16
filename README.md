@@ -28,6 +28,8 @@ All attempts are stored in classes named `Solution.<extension>`, where `<extensi
 | [11 - Containter With Most Water](11-container-with-most-water/attempt01/README.md) | attempt01 | Successful attempt | Left and right pointers update to disregard the shortest line to attempt to create a larger area. |
 | [13 - Roman to Integer](13-roman-to-integer/attempt01/README.md) | attempt01 | Successful attempt | Compares each Roman numeral with the next one to handle subtraction cases. |
 | [14 - Longest Common Prefix](14-longest-common-prefix/attempt01/README.md) | attempt01 | Successful attempt | Compares strings character by character. |
+| [20 - Valid Parentheses](20-valid-parentheses/attempt01/README.md) | attempt01 | In Progress | Implementation 
+| in progress. |
 | [29 - Divide Two Integers](29-divide-two-integers/attempt01/README.md) | attempt01 | Failed attempt | Repeated subtraction approach does not handle all overflow edge cases. |
 | [35 - Search Insert Position](35-search-insert-position/attempt01/README.md) | attempt01 | Successful attempt | Uses a while loop to update left and right pointers to implement a binary search. |
 | [58 - Length of Last Word](58-length-of-last-word/attempt01/README.md) | attempt01 | Successful attempt | Uses a for loop to reverse iterate through and check the state of the word. |
