@@ -11,5 +11,7 @@ Closing parantheses are verified by comparing the input closing parenthesis to t
 Special cases are dealt with via their own if statements.
 
 ## Stats
-*Time:* `2ms` *Beating:* `98.04%`
-*Memory:* `43.03MB` *Beating:* `84.68%`
+
+**Time:** `2ms` *Beating:* `98.04%`
+
+**Memory:** `43.03MB` *Beating:* `84.68%`
