@@ -32,6 +32,7 @@ All attempts are stored in classes named `Solution.<extension>`, where `<extensi
 | [29 - Divide Two Integers](29-divide-two-integers/attempt01/README.md) | attempt01 | Failed attempt | Repeated subtraction approach does not handle all overflow edge cases. |
 | [35 - Search Insert Position](35-search-insert-position/attempt01/README.md) | attempt01 | Successful attempt | Uses a while loop to update left and right pointers to implement a binary search. |
 | [58 - Length of Last Word](58-length-of-last-word/attempt01/README.md) | attempt01 | Successful attempt | Uses a for loop to reverse iterate through and check the state of the word. |
+| [88 - Merge Sorted Array](88-merge-sorted-array/attempt01/README.md) | attempt01 | Successful attempt | Loops in reverse over nums1 and checks boundaries then compares size using pointers, adding the larger value to the end of nums1. |
 | [724 - Find Pivot Index](724-find-pivot-index/attempt01/README.md) | attempt01 | Successful attempt | Brute-force left/right sum comparison. |
 | [1480 - Running Sum of 1D Array](1480-running-sum-of-1d-array/attempt01/README.md) | attempt01 | Succesful attempt | Brute-force running sum calculation. |
 
