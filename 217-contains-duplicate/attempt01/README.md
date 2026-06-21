@@ -2,14 +2,14 @@
 
 This repository contains my first attempt at LeetCode problem 217 **Contains Duplicate**.
 
-The goal of the problem is to 
+The goal of the problem is to return a boolean which indictes if nums contains a duplicate value.
 
 ## Current approach
 
-
+Iterate through nums and stores each value in a set. If the set already contains the number, true is returned.
 
 ## Stats
 
-**Time:** `ms` *Beating:* `%`
+**Time:** `14ms` *Beating:* `89.22%`
 
-**Memory:** `MB` *Beating:* `%`
+**Memory:** `93.60MB` *Beating:* `40.91%`
