@@ -35,6 +35,7 @@ All attempts are stored in classes named `Solution.<extension>`, where `<extensi
 | [88 - Merge Sorted Array](88-merge-sorted-array/attempt01/README.md) | attempt01 | Successful attempt | Loops in reverse over nums1 and checks boundaries then compares size using pointers, adding the larger value to the end of nums1. |
 | [121 - Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/attempt01/README.md) | attempt01 | Successful attempt | Store the minimum price found and find maximum profit at each increment. |
 | [217 - Contains Duplicate](217-contains-duplicate/attempt01/README.md) | attempt01 | Successful Attempt | Uses a set and checks if values are in the set already. |
+| [217 - Contains Duplicate](217-contains-duplicate/attempt02/README.md) | attempt02 | Successful Attempt | Sorts the array then checks previous index for duplicates |
 | [724 - Find Pivot Index](724-find-pivot-index/attempt01/README.md) | attempt01 | Successful attempt | Brute-force left/right sum comparison. |
 | [1480 - Running Sum of 1D Array](1480-running-sum-of-1d-array/attempt01/README.md) | attempt01 | Succesful attempt | Brute-force running sum calculation. |
 
